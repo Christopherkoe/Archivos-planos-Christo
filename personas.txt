@@ -1,0 +1,3 @@
+1|Juan|Zuluaga|1234567|Medellin|5000.00
+2|Luisa|Calle|7654321|Medellin|4000.00
+3|Koe|Forero|2345678|Bogota|8000.00
